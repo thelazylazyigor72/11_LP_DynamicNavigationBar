@@ -1,0 +1,6 @@
+- First of, had to update my webpack cfg cuz i had no svg loader, it causes lil troubles, also we should notice dat we added values.js dat we probably
+should delete cuz we have no need in this on daily basis; also should check what added at job cuz i think i've addeed something interesting
+- Во вторых, показано почему стоит держать отдельно даже список ссылок
+- в третьих показаны разные возможности создания бургер меню, главная же тема как на основе контейнера со ссылками и оберткой-контейнером, 
+с помощью рефов сделать бургер меню, хотя я думаю если призадуматься то можно вообще определить это как -- как с помощью рефов сделать
+динамическое отображение меняющихся данных. 

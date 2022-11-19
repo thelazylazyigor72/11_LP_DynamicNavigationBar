@@ -1,0 +1,47 @@
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//! Thats how to use svg, as a fucking component, so if u wanna use svg like in the image - u have to use different way
+
+//!But, we just make a file w/ arrays that describes our links/socials and everywhere else we just populating them w/map or we populate them w/map 
+
+//!Why we just dont hardcode links/socials, Heres the thing, what if our links/socials are also used in like sidebar or footer,
+
+//!in the file into some exporting fragment or smth, and then if theres some changes in links/social we just make thoose changes in the file
